@@ -236,7 +236,7 @@ private UserDao userDao;
 
 ![image-20241110171249932](spring框架.assets/image-20241110171249932.png)
 
-切面：通知/增啊强  ＋ 切点
+切面：通知/增强  ＋ 切点
 
 ![image-20241110171538770](spring框架.assets/image-20241110171538770.png)
 
